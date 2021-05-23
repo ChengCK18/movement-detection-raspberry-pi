@@ -4,10 +4,10 @@ This script detects movement based on the concept of background subtraction of n
 
 Downside of this script however is that the bounding box is not accurate as compared to object detection via deep learning apporach. It is also quite susceptible to noises caused by shadows or change in lighting(Partially resolve by performing erosion and setting a minimum connected components size)
 
-Sample output video snippet:
+Sample output video snippet:__
 ![image](https://user-images.githubusercontent.com/43441027/119250512-24832480-bbd3-11eb-9107-7aa9a9500c3d.png)
 
-Sample discord alert message:
+Sample discord alert message:__
 ![Screenshot 2021-05-22 171420](https://user-images.githubusercontent.com/43441027/119250539-47153d80-bbd3-11eb-9d1f-9d5b13152eee.jpg)
 
 
