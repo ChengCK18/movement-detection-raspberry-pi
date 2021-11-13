@@ -1,4 +1,4 @@
-# object-detection-raspberry-pi
+# movement-detection-raspberry-pi
 
 
 ## 1) [v1.x] image_processing_obj_detection **(Run on Raspberry Pi)**<br />
